@@ -52,7 +52,7 @@ Materials for the miniCNC_Plotter project
 
         На Arduino загружается прошивка grbl 0.9. (cnc.ino + Adafruit-Motor-Shield-library-master (2).zip)
 
-        Для передачи G-кода используется Universal G-code Sender (UGS).
+        Для передачи G-кода используется Universal G-code Sender (UGS) или GCTRL.pde.
 
         Рисунки генерируются в Inkscape с использованием GcodeTools.
 
